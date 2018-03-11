@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A Day in Google Developer Days
 ---
  If you are from Bangalore,you must be well aware and experienced that there are two things you can’t predict and rely upon- rain and traffic. Knowing that pretty well from prior experiences, I made sure I started early from home. My plan was to reach the Bangalore International Exhibition Centre as early as I can(which was by 8.30,at least). You don’t get to go for a Google event, specially the one which is as big as the Google Developer Days every week or every month. <!--break-->So when you have the confirmation to attend it, you would want to be there as early as you can. After leaving home at 5.30, I reached BIEC at 9.40, just an hour and ten minutes late than what I planned. By the time I reached, few first-times already happened :

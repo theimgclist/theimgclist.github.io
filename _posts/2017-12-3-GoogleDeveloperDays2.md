@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Another day at Google Developer Days
 ---
 ![](https://cdn-images-1.medium.com/max/750/1*EdBBBcnGT7dHMj5mz5L-9Q.jpeg)

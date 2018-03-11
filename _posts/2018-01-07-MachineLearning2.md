@@ -1,5 +1,4 @@
 ---
-layout: post
 title: From Zero to Beginner in Machine Learning and Data Science — Part 2
 ---
 ![](https://cdn-images-1.medium.com/max/1500/1*ZkZS46p7Lbw-PDBtPMfEEw.jpeg)
