@@ -10,7 +10,7 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
- background-color: $footer-background-color;
+
   &__inner-wrap {
     @include clearfix;
     margin-left: auto;
@@ -29,12 +29,10 @@
 
     nav {
       z-index: 10;
-	  background-color: $footer-background-color;
     }
 
     a {
       text-decoration: none;
-	  background-color: $footer-background-color;
     }
   }
 }
@@ -48,7 +46,6 @@
   align-items: center;
   font-weight: bold;
   z-index: 20;
-  background-color: $footer-background-color;
 }
 
 .masthead__menu {
@@ -57,17 +54,16 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-background-color: $footer-background-color;
+
   .site-nav {
     margin-left: 0;
-	background-color: $footer-background-color;
+
     @include breakpoint($small) {
       float: right;
     }
   }
 
   ul {
-  background-color: $footer-background-color;
     margin: 0;
     padding: 0;
     clear: both;
@@ -79,7 +75,7 @@ background-color: $footer-background-color;
   display: block;
   list-style-type: none;
   white-space: nowrap;
-background-color: $footer-background-color;
+
   &--lg {
     padding-right: 2em;
     font-weight: 700;
@@ -87,6 +83,11 @@ background-color: $footer-background-color;
 }
 .my-header {
 	float: right;
-	background-color: $footer-background-color;
 	font-size: 14px;
+	
 	}
+.my-header blockquote {
+	margin: 20px 0;
+  padding-left: 1.5rem;
+  border-left: 5px solid #64b5f6;
+}
