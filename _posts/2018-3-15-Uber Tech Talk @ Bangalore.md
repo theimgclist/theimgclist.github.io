@@ -24,5 +24,5 @@ Pramod Biligiri, a Data Engineer at Uber who also works on AdTech related produc
 
 With so much to learn from the internet resources on Machine Learning and Data Science, it is this kind of sessions that help in knowing how they are actually implemented and used in real-time. We got to talk to all of the speakers and also few others from Uber who helped us with our questions. There was a lot to learn from this meetup that lasted for more than a couple of hours. If you liked what you read so far in this article and would like to follow what’s all happening at Uber, I recommend checking [this](https://eng.uber.com/) blog from Uber and also following [@ubereng](https://twitter.com/UberEng) on Twitter.
 
-> Big thanks to Mayuresh Shilotri from DataGiri and Uber for organizing this meetup. If you liked this post, dont shy away from heading over [here](https://medium.com/@theimgclist/google-knows-how-to-teach-45e531ab3ada) and give it a clap(or two &#x1f609;). Thanks for reading!!
+> Big thanks to Mayuresh Shilotri from DataGiri and Uber for organizing this meetup. If you liked this post, dont shy away from heading over [here](https://medium.com/@theimgclist/uber-tech-talk-bangalore-eca1ca73cd74) and give it a clap(or two &#x1f609;). Thanks for reading!!
 
