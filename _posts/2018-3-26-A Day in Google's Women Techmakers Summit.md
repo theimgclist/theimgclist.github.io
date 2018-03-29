@@ -1,7 +1,7 @@
 ---
 title: A Day in Google's Women Techmakers Summit
 ---
-![](\assets\images\logonew.jpg?raw=true)
+<p align="center"><img src="\assets\images\logonew.jpg?raw=true" alt="" /></p>
 
 “Obstacles pave the way to our destination.” Isn’t that true? “Your feelings are solely yours. You can’t deny them!” This one is something to remember. “What got you here, will not get you there”. This will make sense if you think about it for a moment. I am not trying to enlighten you here. I was just quoting few of the things that I heard the speakers talk about during the Women Techmakers Summit that happened in Bangalore. As someone who attended it, I must say it’s a very eventful, interesting and most of all, the first of it’s kind for me.
 
@@ -9,19 +9,21 @@ If you haven’t heard about it before, Women Techmakers is a Google program tha
 
 The place looked lively with nice ambience. There was a warm welcome at the registration where we got the access cards. Besides the talks from speakers, there were two sessions that were planned to happen in the afternoon. One of them was on Android Things and the other was Speechless Workshop which was about public speaking. I registered for AndroidThings. As I was about to leave the registration desk I was asked if I got my swag bag. Since I didn’t, I said no and then I got one! Want to take a look at what all I got?
 
-![](\assets\images\swagbag.jpg?raw=true)
+![](\assets\images\swagbag.png?raw=true)
 
 There were people in groups, some of them with their friends or people already familiar to them and the rest talking to people who they were meeting for the first time. That’s something a conference or summit provides to its attendees — an environment and an opportunity to have conversations with people you didn’t know before. I looked around to see if there were any men in the groups. Except for one or two, there weren’t any. From the conversation I had with an acquaintance I made here, men are more than welcome to this kind of community events. So guys, the next time you hear about such an event, make sure you don’t miss it. Enough about men now!
 
 Sunita Mohanty who is the Director of Trust and Safety team at Google started the Summit with the keynote speech. Before talking about the gender gap that exists in technology, she shared her own story and journey, her story of being a daughter, a mother and a woman in technology. She urged the audience to not try and fit in. It’s important to be your own self. She also spoke about how it’s sometimes very important to do some unlearning. Being a woman brings in the burden and pressure of many social norms. Some of them should be left behind so as to push yourself ahead. It’s very important to figure out what you are good at and put your efforts. She went through some numbers that tell us how much the number of women keeps decreasing as the roles go higher and I liked how she concluded it. She said it’s not just about having a 50/50 gender representation of men and women. Whatever the number is in our community, it’s more about supporting each other and helping others grow along with us.
 
-![](\assets\images\sunitamohnaty.jpg?raw=true)
+![](\assets\images\sunitamohanty.jpg?raw=true)
+<p class="caption"><a href="https://twitter.com/GoogleDevsIN">Pic Credit</p>
 
 The keynote was followed by the Panel Discussion. Besides Sujatha Mukherjee who was the host, there were four panellists. Each of them shared their stories and journeys. One of the speakers who came from a middle class family shared how education was considered a necessity in their family. Having a supportive family makes a big difference. An other speaker told us not to feel bad when she said she had to walk 4 kms everyday to get to school. She said it was a lot of fun.
 
 Asking for help in areas where you want to improve is as important as focusing on your strengths. And speaking about yourself and what you have achieved shouldn’t necessarily be a trade-off between being modest and self-advocating. If you don’t speak for yourself, who else will? But aren’t all these the usual, normal things which happen to everyone? Exactly yes. And that’s what I found to be really appreciative. All the speakers who took the stage and addressed the audience, projected the words they spoke and the stories they shared in a way every single person listening could relate to them. What’s more inspiring than knowing from such people’s journey of efforts, education and will to overcome their obstacles and take a stand?
 
-![](\assets\images\paneldiscussion(2).jpg?raw=true)
+![](\assets\images\panel.jpg?raw=true)
+<p class="caption"><a href="https://twitter.com/GoogleDevsIN">Pic Credit</p>
 
 During the one hour lunch break, people again gathered in groups. They were chewing food and having conversations. I made two new acquaintances during the lunch. We talked about Machine Learning, AI, Maths from college, startups and a bit of Maths again. They were going for the other session, the Speechless Workshop. And from what I heard from them at the end of the session, they said it was good and fun. What about the session I was attending, the one on Android things?
 
@@ -35,6 +37,7 @@ Everyone gathered for some quick talks after the end of the session. We had thre
 Next came Viji Vennelakanti, who is a Deep Learning Consultant for a fireside chat. I started paying attention to her talk since Deep Learning is something that I am very interested in. She talked about how she got into Deep Learning which if you are interested to know, is only out of pure curiosity to learn. She shared with the audience the courses that helped her reach this level. She is also one of the course mentors for the Deep Learning Specialisation by Andrew Ng who is well known in the AI world. Besides giving course recommendations, she also talked about her personal journey, moving back to India from the US, some hard times that were inevitable. Her words too aligned with the rest of the speakers on the need to keep learning. She gave few tips and suggestions on learning better(like using Pomodoro technique).
 
 ![](\assets\images\paneldiscussion.jpg?raw=true)
+<p class="caption"><a href="https://twitter.com/GoogleDevsIN">Pic Credit</p>
 
 After a full day of talks, sessions, discussions and meeting new people, Google’s Women Techmakers Summit came to an end. It was good to know that Women Techmakers program is also contributing to Happy Horizons Trust, a non-profit organisation that works on improving the quality of education across many rural areas in India. Though it was centred around technology, the experiences, advises and the stories that were shared were really inspiring. It was a great day at Google’s office, being part of the summit that had many inspiring, smart people. And geeks too! A big thanks to Lakshya and everyone else who organised the event.
 
