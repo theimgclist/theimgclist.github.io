@@ -16,14 +16,14 @@ There were people in groups, some of them with their friends or people already f
 Sunita Mohanty who is the Director of Trust and Safety team at Google started the Summit with the keynote speech. Before talking about the gender gap that exists in technology, she shared her own story and journey, her story of being a daughter, a mother and a woman in technology. She urged the audience to not try and fit in. It’s important to be your own self. She also spoke about how it’s sometimes very important to do some unlearning. Being a woman brings in the burden and pressure of many social norms. Some of them should be left behind so as to push yourself ahead. It’s very important to figure out what you are good at and put your efforts. She went through some numbers that tell us how much the number of women keeps decreasing as the roles go higher and I liked how she concluded it. She said it’s not just about having a 50/50 gender representation of men and women. Whatever the number is in our community, it’s more about supporting each other and helping others grow along with us.
 
 ![](\assets\images\sunitamohanty.jpg?raw=true)
-<p class="caption"><a href="https://twitter.com/GoogleDevsIN">Pic Credit</p>
+<p class="caption"><a href="https://twitter.com/GoogleDevsIN">Pic Credit</a></p>
 
 The keynote was followed by the Panel Discussion. Besides Sujatha Mukherjee who was the host, there were four panellists. Each of them shared their stories and journeys. One of the speakers who came from a middle class family shared how education was considered a necessity in their family. Having a supportive family makes a big difference. An other speaker told us not to feel bad when she said she had to walk 4 kms everyday to get to school. She said it was a lot of fun.
 
 Asking for help in areas where you want to improve is as important as focusing on your strengths. And speaking about yourself and what you have achieved shouldn’t necessarily be a trade-off between being modest and self-advocating. If you don’t speak for yourself, who else will? But aren’t all these the usual, normal things which happen to everyone? Exactly yes. And that’s what I found to be really appreciative. All the speakers who took the stage and addressed the audience, projected the words they spoke and the stories they shared in a way every single person listening could relate to them. What’s more inspiring than knowing from such people’s journey of efforts, education and will to overcome their obstacles and take a stand?
 
 ![](\assets\images\panel.jpg?raw=true)
-<p class="caption"><a href="https://twitter.com/GoogleDevsIN">Pic Credit</p>
+<p class="caption"><a href="https://twitter.com/GoogleDevsIN">Pic Credit</a></p>
 
 During the one hour lunch break, people again gathered in groups. They were chewing food and having conversations. I made two new acquaintances during the lunch. We talked about Machine Learning, AI, Maths from college, startups and a bit of Maths again. They were going for the other session, the Speechless Workshop. And from what I heard from them at the end of the session, they said it was good and fun. What about the session I was attending, the one on Android things?
 
@@ -37,13 +37,18 @@ Everyone gathered for some quick talks after the end of the session. We had thre
 Next came Viji Vennelakanti, who is a Deep Learning Consultant for a fireside chat. I started paying attention to her talk since Deep Learning is something that I am very interested in. She talked about how she got into Deep Learning which if you are interested to know, is only out of pure curiosity to learn. She shared with the audience the courses that helped her reach this level. She is also one of the course mentors for the Deep Learning Specialisation by Andrew Ng who is well known in the AI world. Besides giving course recommendations, she also talked about her personal journey, moving back to India from the US, some hard times that were inevitable. Her words too aligned with the rest of the speakers on the need to keep learning. She gave few tips and suggestions on learning better(like using Pomodoro technique).
 
 ![](\assets\images\paneldiscussion.jpg?raw=true)
-<p class="caption"><a href="https://twitter.com/GoogleDevsIN">Pic Credit</p>
+<p class="caption"><a href="https://twitter.com/GoogleDevsIN">Pic Credit</a></p>
 
 After a full day of talks, sessions, discussions and meeting new people, Google’s Women Techmakers Summit came to an end. It was good to know that Women Techmakers program is also contributing to Happy Horizons Trust, a non-profit organisation that works on improving the quality of education across many rural areas in India. Though it was centred around technology, the experiences, advises and the stories that were shared were really inspiring. It was a great day at Google’s office, being part of the summit that had many inspiring, smart people. And geeks too! A big thanks to Lakshya and everyone else who organised the event.
 
 I don’t want to say something that sounds fancy before I end this because I know nobody cares. Since it’s almost given that nobody cares, why don’t I say it anyway? With so many things happening all across the world that calls for women empowerment, safety and progress, I was part of a full day summit that didn’t speak a word in a complaining tone. If I have to use one sentence to summarise the entire day, it would be this: “The empowerment that starts from within oneself, can find it’s strength to spread out.” Men don’t think like women. Be it in technology or in any other field, having more women gives a new dimension of thoughts, ideas, opinions and experiences, all of which have the potential to make things better.
 
-Here is a video that was shared during the summit. Watch it if you haven’t already. Even if you have already watched it, you can actually watch it another time for the children. Thanks for reading!!
+Here is a video that was shared during the summit. Watch it if you haven’t already. Even if you have already watched it, you can actually watch it another time for the children. 
 
-<iframe width="652" height="489" src="https://www.youtube.com/embed/hLr2GNRnmXM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="652" height="489" src="https://www.youtube.com/embed/hLr2GNRnmXM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+
+<p></p>
+
+
+Did you find this post useful? Head over [here](https://medium.com/@theimgclist/a-day-in-googles-women-techmakers-summit-e6b4269ac069) and give it a clap(or two &#x1f609; ). Thanks for reading!!
 
