@@ -1,5 +1,6 @@
 ---
 title: A Meetup Which Was Much More Than The Usual...
+hidden: true
 ---
 <p align="center"><img src="\assets\images\mlblr.jpeg?raw=true" alt="" /></p>
 <p class="caption"><a href="https://mlblr.com/includes/projects/index.html">Pic Credit</a></p>
