@@ -1,5 +1,6 @@
 ---
 title: The Musk Man — From the Book I Read
+hidden: true
 ---
 <p align="center"><img src="\assets\images\elon.jpg?raw=true" alt="" /></p>
 <p class="caption"><a href="http://bookvideoclub.com/elon-musk-by-ashlee-vance-book-summary/">Pic Credit</a></p>
