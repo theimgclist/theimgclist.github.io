@@ -1,6 +1,6 @@
 ---
 title: Open Hack Meetup
-hidden: false
+hidden: true
 ---
 <p align="center"><img src="\assets\images\openhack.jpg?raw=true" alt="" /></p>
 <p class="caption"><a href="https://www.meetup.com/opensourceblr/events/248254677/">Pic Credit</a></p>
