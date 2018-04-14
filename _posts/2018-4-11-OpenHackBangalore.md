@@ -23,3 +23,4 @@ After having two speakers whose talks were very informative and helpful, there w
 
 It was a very engaging session throughout and I got to know a lot of things. Thanks to Jeeva who organised the meetup and gave us a chance to meet the engineering leaders. Thanks to Nigel who was kind enough to spend almost another hour and half post the panel discussion, answering our questions, giving suggestions on how to get started with the implementation of some ML ideas and sharing his thoughts and experiences. 
 
+Did you find this post useful? Head over [here](https://medium.com/@theimgclist/microsofts-openhack-meetup-ff9729228cd0) and give it a clap(or two &#x1f609; ). Thanks for reading!!
