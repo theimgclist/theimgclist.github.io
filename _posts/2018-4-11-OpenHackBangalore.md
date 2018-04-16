@@ -1,5 +1,5 @@
 ---
-title: OpenHack Meetup
+title: Microsoft's OpenHack Machine Learning Meetup
 hidden: false
 ---
 <p align="center"><img src="\assets\images\openhack.png?raw=true" alt="" /></p>
