@@ -2,7 +2,7 @@
 title: A Day in Great Indian Developer Summit
 hidden: false
 ---
-<p align="center"><img src="\assets\images\gids.JPG?raw=true" alt="" /></p>
+<p align="center"><img src="\assets\images\GIDS.JPG?raw=true" alt="" /></p>
 
 The last time I blogged which was a few days ago, I told myself that the next time I do it, it should be something other than writing about my experience in some tech event. Looks like I should postpone that for another time. Because here I am, writing again about yet another tech conference. This time there is one difference though. I am writing this as I am still in the summit. What summit? I am talking about the Great Indian Developer Summit 2018, that is happening right now in Bangalore. And without any delay, let me straight away take you through what all happened so far. 
 
