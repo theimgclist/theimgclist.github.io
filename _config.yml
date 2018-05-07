@@ -92,9 +92,9 @@ analytics:
 author:
   name             : "Avinash Kappa"
   avatar           : https://avatars1.githubusercontent.com/u/30141722?s=400&u=bb67a966db9a31e8ebb403c95cf4a101b4f7fa49&v=4
-  bio              : "Totally into Machine Learning"
+  bio              : " "
   location         : "Bangalore"
-  email            : avinash3593@gmail.com
+  email            : #null
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
