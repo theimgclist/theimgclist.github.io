@@ -1,6 +1,6 @@
 ---
 title: Google I/O Extended Event
-hidden: false
+hidden: true
 ---
 <p align="center"><img src="\assets\images\io18extended.png?raw=true" alt="" /></p>
 <p align="center"><a href="https://events.google.com/io/">Credit</a></p>
