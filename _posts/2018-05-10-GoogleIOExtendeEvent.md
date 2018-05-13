@@ -18,7 +18,9 @@ Google Duplex has been in the making for the past many years. Leveraging the adv
 
 <p align="center"><img src="\assets\images\dashboard.png?raw=true" alt=""/></p>
 
-Whenever I browse through my Android phone apps, there is one app that makes me feel that it's left out. Yea I am talking about Google News. And Google has added it some new features, hopefully, to improve it. This again uses Machine Learning. Coming to Android, the version P of it comes with a dashboard, which acts as a one-stop place where the users can see how they are using their phones - what apps are they spending the most time on, how many notifications did the phone receive, number of times the phone is unlocked etc and all of this for the digital well being of the users. Also, Youtube is going to have this new feature which reminds you to take a break whenever it feels you have crossed the limit. So the next time you are on Youtube, binge-watching videos, it is not just your mom or dad who would remind you to take a break.    
+Whenever I browse through my Android phone apps, there is one app that makes me feel that it's left out. Yea I am talking about Google News. And Google has added it some new features, hopefully, to improve it. This again uses Machine Learning. Coming to Android, the version P of it comes with a dashboard, which acts as a one-stop place where the users can see how they are using their phones - what apps are they spending the most time on, how many notifications did the phone receive, number of times the phone is unlocked etc and all of this for the digital well being of the users. Also, Youtube is going to have this new feature which reminds you to take a break whenever it feels you have crossed the limit. So the next time you are on Youtube, binge-watching videos, it is not just your mom or dad who would remind you to take a break.  
+
+There were so many useful sessions that happened during the I/O event. All of these are available to watch on [Youtube](https://www.youtube.com/user/GoogleDevelopers/videos). 
 
 
 
