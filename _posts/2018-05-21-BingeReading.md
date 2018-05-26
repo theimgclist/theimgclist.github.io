@@ -1,6 +1,6 @@
 ---
 title: Google Smart Compose, Machine Bias, Racist AI - Summarising One Night of Binge Reading from Blogs
-hidden: false
+hidden: true
 ---
 <p align="center"><img src="/assets/images/bingereading.png"/></p>
 <p align="center"><a href="https://www.forbesmiddleeast.com/en/artificial-intelligence-to-contribute-320-billion-to-the-middle-east-by-2030/">Pic Credit</a></p>  
