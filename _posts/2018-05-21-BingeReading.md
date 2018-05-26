@@ -1,6 +1,6 @@
 ---
 title: Google Smart Compose, Machine Bias, Racist AI - Summarising One Night of Binge Reading from Blogs
-hidden: true
+hidden: false
 ---
 <p align="center"><img src="/assets/images/bingereading.png"/></p>
 <p align="center"><a href="https://www.forbesmiddleeast.com/en/artificial-intelligence-to-contribute-320-billion-to-the-middle-east-by-2030/">Pic Credit</a></p>  
@@ -23,4 +23,10 @@ When Latanya Sweeney from Harvard University searched on Google for her own name
 <p align="center"><a href="http://atlantablackstar.com/2016/06/10/teen-googles-three-black-teenagers-and-three-white-teenagers-to-startling-results/">Pic Credit</a></p>
 
 In 2016, an internet user posted on Twitter, one of his experiences with Google image search. When he searched for "three white teenagers", the results he found were images of smiling, happy white teenagers. When a similar search was tried with "three black teenagers", the results were quite different. Though these results too had some normal and generic images, many of the other results were that of jailed teenagers. The post went viral soon after it was posted and that shouldn't be surprising. What was the reason behind this? Was the algorithm behind the image search programmed to do this? This would surely not be the case. Google has explained this situation too - "Our image search results are a reflection of content from across the web, including the frequency with which types of images appear and the way they're described online".  
+
+Does the problem seem to be only with the applications/algorithms of the big tech companies that have access to huge amount of data? Many courts across the United States use a software that gives the accused/defendant a risk score. This score represents the likelihood of the person committing a crime. From where does the software get the data to perform analysis and give out a risk score? Northpointe, which has developed such a risk-assessing software uses the answers to 137 questions as the data. These answers are either directly obtained by questioning the accused or taken from the past criminal records if any. The data, in this case, may not be as much but that doesn't mean the program is free from bias. When Brisha Borden took a ride on a bicycle which was not hers and got arrested, she was given a high score by the risk assessment program that she was likely to commit more crimes in future. The same program has given a lower score to Vernon Peter who served 5 years in prison for armed robbery in the past. Yet in two years time, Brisha who was given a high score hasn't committed any crimes whereas Vernon who had a low score for committing any future crime, was back in jail for another robbery. Data again is the most key component of this risk assessment program. 
+
+<p align="center"><img src="/assets/images/riskscore.png"/></p>
+<p align="center"><a href="https://www.documentcloud.org/documents/2702103-Sample-Risk-Assessment-COMPAS-CORE.html">Pic Credit</a></p>
+
 
