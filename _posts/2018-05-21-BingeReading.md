@@ -26,7 +26,7 @@ In 2016, an internet user posted on Twitter, one of his experiences with Google 
 
 Does the problem seem to be only with the applications/algorithms of the big tech companies that have access to huge amount of data? Many courts across the United States use a software that gives the accused/defendant a risk score. This score represents the likelihood of the person committing a crime. From where does the software get the data to perform analysis and give out a risk score? According to ProPublica's blog, Northpointe the company which has developed such a risk-assessing software uses the answers to 137 questions as the data. These answers are either directly obtained by questioning the accused or taken from the past criminal records. 
 
-<p align="center"><img src="/assets/images/riskscore.png"/></p>
+<p align="center"><img src="/assets/images/riskscore.PNG"/></p>
 <p align="center"><a href="https://www.documentcloud.org/documents/2702103-Sample-Risk-Assessment-COMPAS-CORE.html">Pic Credit</a></p>  
 
 The data, in this case, may not be as much but that doesn’t mean the program is free from bias. When Brisha Borden took a ride on a bicycle which was not hers and got arrested, she was given a high score by the risk assessment program that she was likely to commit more crimes in future. The same program has given a lower score to Vernon Peter who served 5 years in prison for armed robbery in the past. Yet in two years time, Brisha who was given a high score hasn’t committed any crimes whereas Vernon who had a low score for committing any future crime, was back in jail for another robbery. Data again is the most key component of this risk assessment program.
