@@ -40,6 +40,8 @@ This is the third Uber Tech Talk I attended this year and the talks were really 
 
 If you liked what you read so far in this article and would like to follow what’s all happening at Uber, I recommend checking [this](https://eng.uber.com/) blog from Uber and also following [@ubereng](https://twitter.com/UberEng) on Twitter where they tweet about their recent research works and about open source tools.  
 
+[Here’s](https://medium.com/@theimgclist/uber-tech-talk-bangalore-eca1ca73cd74) the link to the blog I wrote about the first Uber Tech Talk I attended.  
+
 Thanks for reading &#128516; &#128516;
 
 
