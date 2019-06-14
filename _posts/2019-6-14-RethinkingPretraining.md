@@ -111,6 +111,8 @@ We see in the plots on the middle and right that training from scratch gives pre
 
 <p align="center"><img src="\assets\images\lessdata.jpeg"/></p>
 
+***
+
 **Summary**
 
 * Training from scratch on target tasks is possible without architectural changes or specialized networks.
@@ -121,11 +123,17 @@ We see in the plots on the middle and right that training from scratch gives pre
 * Pre-training can help with learning universal representations, but we should be careful when evaluating the pre-trained features.
 
 
+
+***
+
+
 **Conclusion**  
 
 The paper doesn’t claim that the pre-train and fine-tune approach is not recommended in anyway. But the experiments included have shown that for some scenarios, training a model from scratch gave slightly better results than the fine-tune/pre-train approach. What this means is that if computation is not a constraint, then for certain scenarios and configuration settings, the model trained from scratch gives better results than the fine-tuned ones.
 
 This is an interesting study, especially because the pre-train and fine-tune paradigm is being used more as a standard procedure. And considering where deep learning is being applied—including use cases for automobiles, health, retail, etc., where even slight improvements in accuracy can make huge differences— it’s essential for research to not only aim for novel and innovative methods, but also to study existing methods in more detail. This could lead to better insights and new discoveries.
+
+***
 
 
 > Did you find this post useful? Head over [here](https://heartbeat.fritz.ai/pre-trained-machine-learning-models-vs-models-trained-from-scratch-63e079ed648f) and feel free to post your comments/feedback. Thanks for reading &#128516; &#128516;
