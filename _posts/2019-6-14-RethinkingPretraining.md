@@ -6,9 +6,9 @@ title: Pre-trained Models are Helpful. But!
 
 > **From the Abstract**: We report competitive results on object detection and instance segmentation on the COCO dataset using standard models trained from random initialization.The results are no worse than their ImageNet pre-training counterparts, with the sole exception of increasing the number of training iterations so the randomly initialized models may converge. Training from random initialization is surprisingly robust; our results hold even when: (i) using only 10% of the training data, (ii) for deeper and wider models, and (iii) for multiple tasks and metrics.
 
-***
 
-**Transfer Learning — the Pre-train & Fine-tune Paradigm**  
+
+<h2>Transfer Learning — Pre-train & Fine-tune Paradigm</h2>
 
 Deep learning has seen a lot of progress in recent years. It’s hard to think of an industry that doesn’t use deep learning. The availability of large amounts of data along with increased computation resources have fueled this progress. There have been many well known and novel methods responsible for the growth of deep learning.
 
@@ -20,8 +20,8 @@ But with pre-trained models readily available (along with a few other factors), 
 
 With recent developments in the past year, transfer learning is now possible for language-related tasks as well. All of this proves that Andrew Ng was right about what he said few years ago — that transfer learning will be the next driver of commercial ML success.
 
-***
-**Different modes of training**
+
+<h2>Different modes of training</h2>
 
 <p align="center"><img src="\assets\images\trainingstrategy.jpeg"/></p>
 <p align="center"><a href="https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751">Pic Credits</a></p>   
@@ -36,9 +36,8 @@ In the pre-train and fine-tune paradigm, model training starts with some learned
 
 Models that are pre-trained on ImageNet are good at detecting high-level features like edges, patterns, etc. These models understand certain feature representations, which can be reused. This helps in quicker convergence and is used in state-of-the-art approaches to tasks like object detection, segmentation, and activity recognition. But how good are these representations?
 
-***
 
-**Feature Representations and Random Initialization**
+<h2>Feature Representations and Random Initialization</h2>
 
 Feature representations learned by pre-trained models are domain dependent. They learn from the benchmark dataset they’re trained on. Can we achieve universal feature representations by building much larger datasets? Some work is already done in this area, where datasets which are almost 3000 times the size of ImageNet are annotated.
 
@@ -48,9 +47,9 @@ To train a model from scratch, all the parameters or weights in the network are 
 
 The results obtained prove that by training the model for a sufficient number of iterations and by using appropriate techniques, the model trained from scratch also gives comparative and close results to that of the fine-tuned model.
 
-***
 
-**Related Work**
+
+<h2>Related Work</h2>
 
 If you’re used to working with pre-trained models, training from scratch might sound time- and resource-consuming. To interrogate this assumption, we can look at prior research done on training models from scratch instead of using pre-trained models.
 
@@ -58,9 +57,9 @@ DetNet and CornerNet use specialized model architectures to accommodate training
 
 In this work, the authors considered using existing baseline architectures with a couple of changes. One is to train the model for more iterations, and the other is to use batch normalization alternatives like group normalization and synchronized batch normalization. With this the authors were able to produce results that were close to that of the fine-tune approach.
 
-***
 
-**Normalization and Convergence Comparison**
+
+<h2>Normalization and Convergence Comparison</h2>
 
 If models are trained from scratch without proper normalization, it can produce misleading results, which might mean that training from scratch is not optimal at all.
 
@@ -75,9 +74,9 @@ The fine-tuned models get kind of a head start, as the pre-trained model has alr
 
 The image here summarizes the number of training samples seen in both cases—with and without pre-training. Depending on the target task, the samples can be images, instances, or pixels. For a segmentation task, the model works at the pixel level. For object detection what matters is the instances of objects in each image. We see that except in segmentation (pixel-level task), training from scratch takes a substantially lower number of training images.
 
-***
 
-**Experimental Settings and Results**
+
+<h2>Experimental Settings and Results</h2>
 
 Here are the experiment settings—the architecture and hyperparameters used. The experiments use Mask R-CNN with ResNet and ResNext architectures as the baseline. GN or SyncBN are used for normalization. The model is trained with an initial learning rate of 0.02, and it’s reduced by 10 times in the last 60k and 20k iterations respectively. The training data is flipped horizontally and there is no test time augmentation for the baseline model. A total of 8 GPUs were used for training.
 
@@ -89,9 +88,9 @@ In this case, object detection and image segmentation are the two target tasks. 
 
 We see that when fine tuning, pre-training gives the model a head start, as we see the AP starts with a value close to 20. Whereas when training from scratch, the model starts with an AP value of close to 5. But the important thing to note is that, the model trained from scratch goes on to give close results. These spikes here indicate the results of applying different schedules and learning rates, all merged into the same plot.
 
-***
 
-**Enhanced Baselines**
+
+<h2>Enhanced Baselines</h2>
 
 The authors also tried making enhancements to their baseline model. Better results were reported by adding scale augmentation during training. Similarly, using Cascade RCNN and test time augmentation also improved the results.
 
@@ -99,7 +98,7 @@ The authors also tried making enhancements to their baseline model. Better resul
 
 <p align="center"><img src="\assets\images\enhanced.jpeg"/></p>
 
-**Experiments with Less Data**
+<h2>Experiments with Less Data</h2>
 
 The final experiment was to try different amounts of training data. While the first interesting finding from this work is that we can get comparable results even with models trained from scratch, the other surprising discovery is that even when there’s less data, training from scratch can still yield close results to that of the fine tuned models.
 
@@ -111,9 +110,9 @@ We see in the plots on the middle and right that training from scratch gives pre
 
 <p align="center"><img src="\assets\images\lessdata.jpeg"/></p>
 
-***
 
-**Summary**
+
+<h2>Summary</h2>
 
 * Training from scratch on target tasks is possible without architectural changes or specialized networks.
 * Training from scratch requires more iterations to sufficiently converge.
@@ -124,16 +123,16 @@ We see in the plots on the middle and right that training from scratch gives pre
 
 
 
-***
 
 
-**Conclusion**  
+
+<h2>Conclusion</h2>
 
 The paper doesn’t claim that the pre-train and fine-tune approach is not recommended in anyway. But the experiments included have shown that for some scenarios, training a model from scratch gave slightly better results than the fine-tune/pre-train approach. What this means is that if computation is not a constraint, then for certain scenarios and configuration settings, the model trained from scratch gives better results than the fine-tuned ones.
 
 This is an interesting study, especially because the pre-train and fine-tune paradigm is being used more as a standard procedure. And considering where deep learning is being applied—including use cases for automobiles, health, retail, etc., where even slight improvements in accuracy can make huge differences— it’s essential for research to not only aim for novel and innovative methods, but also to study existing methods in more detail. This could lead to better insights and new discoveries.
 
-***
+
 
 
 > Did you find this post useful? Head over [here](https://heartbeat.fritz.ai/pre-trained-machine-learning-models-vs-models-trained-from-scratch-63e079ed648f) and feel free to post your comments/feedback. Thanks for reading &#128516; &#128516;
