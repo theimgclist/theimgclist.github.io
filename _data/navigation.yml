@@ -4,8 +4,8 @@ main:
     url: /projects/
   - title: "Talks"
     url: /talks/
-  - title: "vAssist"
-    url: /vAssist/  
+  - title: "Joy"
+    url: /product/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
